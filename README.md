@@ -1,7 +1,11 @@
 # Table Cell Extraction Solution
 
 A robust, configurable solution for extracting table cells from scanned document images using OpenCV. 
-This guide explains how to run the 
+
+![Illustration](fig_ui_overview.png)
+
+
+This guide explains how to run the scripts and application.
 
 ## Quick Start
 
